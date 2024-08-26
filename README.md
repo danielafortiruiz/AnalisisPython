@@ -25,6 +25,11 @@ Estas herramientas nos permiten analizar datos y visualizar la información de m
 
 Las técnicas de limpieza y filtrado aplicadas en Python han permitido reducir considerablemente el volumen de datos a analizar. 
 
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/AnalisisPython/blob/main/img%20python%20.png?raw=true" alt="Imagen Python" />
+</p>
+
+
 **Técnicas implementadas:**
 
 - **Eliminación de valores nulos**: Se eliminaron o imputaron valores faltantes.
